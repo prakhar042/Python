@@ -1,5 +1,5 @@
-x = 5
-y = 10
+x = 25
+y = 35
 temp = x
 x = y
 y = temp
