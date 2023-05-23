@@ -1,4 +1,4 @@
-num = 29
+num = 35
 temp = False
 if num == 1:
     print(num, "is not a prime number")
