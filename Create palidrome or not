@@ -1,4 +1,4 @@
-num = 1221
+num = 3223
 temp = num
 reverse = 0
 while temp > 0:
