@@ -1,0 +1,6 @@
+n="It is a python language"
+s=n.split(" ")
+for i in s:
+#And here we are checking the length of words
+  if len(i)%2==0:
+	  print(i)
