@@ -1,0 +1,15 @@
+numbers = [25, 2, 5, 1, 7, 3, 13, 16]
+
+smallest_number = min(numbers)
+
+
+largest_number = max(numbers)
+
+
+print("Smallest number:", smallest_number)
+print("Largest number:", largest_number)
+
+output:
+
+Smallest number: 1
+Largest number: 25
